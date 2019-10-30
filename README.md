@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# 个人简介
 
-You can use the [editor on GitHub](https://github.com/qyang0211/qyang0211.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+百度安全部数据产品经理，从事数据产品、数据安全、隐私安全相关业务.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 工作经历
 
-### Markdown
+## 百度
+2018年11月至今，百度安全部，数据产品经理
+负责安全计算平台产品的市场调研、需求分析、产品规划和设计。目前产品已内部上线，潜在意向客户12个。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 360企业安全
+2017年10月到2018年11月，数据产品经理
+工作任务分为3块：
+1.2B通用大数据产品设计：负责产品规划、需求分析、原型设计和迭代管理，包括opensourcedata大数据分析平台、VPN 等产品。
+2.项目定制化开发产品设计：负责两个项目的需求沟通、定制化产品功能设计
+3.负责公司项目解决方案：包括建设方案、技术方案、投标方案、以及其他交付项目方案等
 
-```markdown
-Syntax highlighted code block
+## 2B 国企&创业公司
+2016年6月到2017年9月，数据产品经理
+2B 产品经理晃悠1年。
 
-# Header 1
-## Header 2
-### Header 3
+# 教育经历
+## 武汉大学 硕士
+2013年9月到2016年6月，武汉大学，信管专业，硕士
+实际硕士专业名称是情报学专业，估计没有信管专业知名度高
+## 武汉大学 本科
+2009年9月到2013年6月，武汉大学，专业，本科
+实际本科专业名称是档案学，估计没有信管专业名称知名度高
 
-- Bulleted
-- List
+## 华中科技大学 本科（辅修）
+2010年9月到2012年9月 计算机专业，本科，辅修
+辅修华科计算机专业，懂一点计算机原理，能code、debug 一点代码，没有项目开发能力。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qyang0211/qyang0211.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
